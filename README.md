@@ -112,11 +112,11 @@ go version
 Clone the repository:
 
 ``` bash
-git clone https://github.com/yourusername/log-analyzer.git
+git clone https://github.com/Abhishek-Sharma08/log_analyzer.git
 cd log-analyzer
 ```
 
-Replace `yourusername` with your GitHub username and adjust the
+Replace `Abhishek-Sharma03` with your GitHub username and adjust the
 repository URL if you choose a different name.
 
 Build the executable:

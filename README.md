@@ -330,8 +330,3 @@ Contributions, bug reports, and suggestions are welcome.
 5.  Commit your changes: `git commit -m "Describe your change"`.
 
 6.  Push your branch and open a Pull Request.
-
-## License
-
-This project is intended to be released under the MIT License. See the
-[`LICENSE`](LICENSE) file for the full license text.
